@@ -176,7 +176,7 @@ Publish the website in the given URL.
 <html lang="en">
     <head>
         <title>
-            Home Page
+            PRODUCT SITE
         </title>
         <meta name="viewport" 
          content="width=device-width, initial-scale=1.0">
@@ -198,19 +198,19 @@ Publish the website in the given URL.
                 <header>
                     <div class=logo></div>
                     <div class=h>
-                    <a href="home.html" title="Home" style="color: darkred; text-decoration: none;"><b>Home</b></a></div>
+                    <a href="home.html" title="Home" style="color: darkred; text-decoration: none;"><b>HOME</b></a></div>
                     <div class="prod">
-                        <a href="products.html" title="Products" style="color: darkred; text-decoration: none;"><b>Products</b></a>
+                        <a href="products.html" title="Products" style="color: darkred; text-decoration: none;"><b>PRODUCTS</b></a>
                     </div>
                     <div class="people">
-                        <a href="people.html" title="People" style="color:darkred; text-decoration: none;"><b>People</b></a>
+                        <a href="people.html" title="People" style="color:darkred; text-decoration: none;"><b>PEOPLES</b></a>
                     </div>
                     <div class="contact">
-                        <a href="contact.html" title="Contact Us" style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
+                        <a href="contact.html" title="Contact Us" style="color:darkred; text-decoration: none;"><b>CONTACT US</b></a>
                     </div>
                 </header>
                 <div class="title">
-                    <h1>Home</h1>
+                    <h1>MOBILES</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
@@ -220,17 +220,17 @@ Publish the website in the given URL.
                     <p>Our store provides various Types and models of Mobile phones which u wish to get. You can view our store's products in our products page and can choose your desired Mobile Phones and inform us, we will deliver it.</p>
                     <b>Benefits of using our store:</b>
                     <ul>
-                        <li>1- yr Warranty</li>
-                        <li>3 months replacement guarantee</li>
+                        <li>1- year extended Warranty</li>
+                        <li>3 months replacement waranty</li>
                         <li>Cash on Delivery</li>
                         <li>EMI Available</li>
-                        <li>Free accessories on payment above Rs.50000</li></ul>
+                        <li>Free accessories on payment above RS:50000</li></ul>
                     <div style="text-align: center;color:mediumaquamarine;font-size:20px;"><b>Kindly use our services!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Sathish R</footer></div>
+                Copyright &copy;2023 Developed by Dinesh Kumar B</footer></div>
             </div>
         </div>
     </body>
@@ -438,7 +438,7 @@ Publish the website in the given URL.
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Sathish R</footer></div>
+                Copyright &copy;2023 Developed by Dinesh KUmar B</footer></div>
             </div>
         </div>
     </body>
@@ -647,7 +647,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Sathish R</footer></div>
+                Copyright &copy;2023 Developed by Dinesh Kumar B</footer></div>
             </div>
         </div>
     </body>
@@ -704,21 +704,20 @@ Publish the website in the given URL.
                     </div>
                     <b><h2>Contact Information:</h2></b>
                     <p><b>&emsp;&ensp;Address:</b>
-                         No:101, 5hth street, Besant Nagar, Chennai-600055, TamilNadu
+                         No:100, 5th street, Anna nagar Nagar, Chennai-600040, TamilNadu
                     </p>
                     <ul>
-                        <li><b>phone: 2379734973</b></li>
-                        <li><b>shop owner no</b>: 9444455555</li>
-                        <li><b>Shop Manager Number:</b> 8957425552</li>
-                        <li><b>Email Id:</b>mobilestore88@gmail.com</li>
-                        <li><b>Email Id:</b>mobilestore33@gmail.com</li>
+                        <li><b>phone: 1234567890</b></li>
+                        <li><b>shop owner no</b>: 7894561230</li>
+                        <li><b>Email Id:</b>mobilestore69@gmail.com</li>
+                        <li><b>Email Id:</b>mobilestore96@gmail.com</li>
                     </ul>
                     <div style="text-align: center;color:violet;font-size:20px;"><b>Please use our services!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Sathish R</footer></div>
+                Copyright &copy;2023 Developed by Dinesh Kumar B</footer></div>
             </div>
         </div>
     </body>
@@ -728,33 +727,18 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![x1](https://user-images.githubusercontent.com/118787261/212746358-34426faf-0c66-4f95-abd7-3fb1f157c205.png)
+
 
 
 ### Products Page:
-![x2](https://user-images.githubusercontent.com/118787261/212746402-b5265cd9-8b53-4150-b256-1953a381e95a.png)
-![x3](https://user-images.githubusercontent.com/118787261/212746405-5095301a-3190-4d97-8bef-250a7c9f6519.png)
-
 
 
 ### People Page:
-![x4](https://user-images.githubusercontent.com/118787261/212746436-9a9324ac-9e31-4297-9d80-78c180b3289e.png)
-![x5](https://user-images.githubusercontent.com/118787261/212746449-948ee73e-3c67-47a1-a73d-884afb3e1ce4.png)
-![x6](https://user-images.githubusercontent.com/118787261/212746457-689570dc-77be-420e-b457-53b3461d8643.png)
-
-![x7](https://user-images.githubusercontent.com/118787261/212746469-b9504b46-1f40-48ec-9183-faead602bbe8.png)
-
 
 
 ### Contact us Page:
 
-![x8](https://user-images.githubusercontent.com/118787261/212746533-d64c3747-4b59-4595-bd9a-0e8212bb1321.png)
 
-
-### Validation:
-HTML:
-
-![x9](https://user-images.githubusercontent.com/118787261/212746558-5d5788cc-fc85-497d-bcfa-62e180264356.png)
 
 ## Result:
 
