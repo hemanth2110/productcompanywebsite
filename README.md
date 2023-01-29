@@ -728,17 +728,27 @@ Publish the website in the given URL.
 
 ### Home Page:
 
+![Screenshot (37)](https://user-images.githubusercontent.com/111277376/215326728-5f4c02ee-c2af-4d56-a59a-57494c66f4d3.png)
 
 
 ### Products Page:
 
+![Screenshot (35)](https://user-images.githubusercontent.com/111277376/215326714-a0829fcd-9365-4a08-aad3-593de44d0ea8.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/111277376/215326718-1be8802a-b7a8-4457-ba02-765632f98754.png)
 
 ### People Page:
+![Screenshot (30)](https://user-images.githubusercontent.com/111277376/215326668-df41c47d-c21a-42b5-8061-bb2ec0e7a0d6.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/111277376/215326673-baf9ad47-b1c6-4f55-a281-f6121fe2b37f.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/111277376/215326676-166e1ca1-0ebd-4d9b-b6fe-6b906177301b.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/111277376/215326680-9053d54b-f40c-481c-aee1-cba8f11f71aa.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/111277376/215326681-4f049a41-910d-4f68-a80a-51670aa3ccbb.png)
+
 
 
 ### Contact us Page:
 
 
+![Screenshot (29)](https://user-images.githubusercontent.com/111277376/215326616-caf914f0-c964-40da-9eda-91a002203d85.png)
 
 ## Result:
 
